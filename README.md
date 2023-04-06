@@ -5,3 +5,10 @@ This project focuses on polish companies bankruptcy classification, with compari
 ## Outline
 The topics covered in the project are demonstrated below.
 ![**pic**](https://github.com/InCaseIDontCU/Polish_Companies_Bankruptcy_Classification/blob/main/Intro.png)
+## Authors
+Haotian Zhai  
+haotianzhai@link.cuhk.edu.cn  
+Xinyang Wang  
+xinyangwang@link.cuhk.edu.cn  
+Yuxin Guo  
+yuxinguo@link.cuhk.edu.cn  
